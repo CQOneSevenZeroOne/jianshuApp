@@ -1,0 +1,12 @@
+.nav-item{
+    display: flex;
+    flex-direction: column;
+    width:7rem;
+    height:9.5rem;
+    img{
+        width: 3.25rem;
+    }
+    span{
+        font-size: 1.2rem;
+    }
+}
